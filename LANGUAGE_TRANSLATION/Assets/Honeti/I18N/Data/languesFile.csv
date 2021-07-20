@@ -1,0 +1,8 @@
+Lang Code	EN	PL	ES	DE	FR	JP	BT
+^text_play	Play now!	Zagraj teraz!	Jugar ahora!	Jetzt spielen!	Joue maintenant!	プレイ	Kenavo
+^text_quit	Quit	Wyjdź	Salida	Ausgang	Quitter	退出する	Degarmade
+^text_settings	Settings	Ustawienia	Configuración	Einstellungen	Réglages	設定	Souchen
+^text_with_two_params	Parameter1: {0} Parameter2: {1}	Parametr1: {0} Parametr2: {1}	Parámetro1: {0} Parámetro2: {1}	Parameter1: {0} Parameter2: {1}	Paramètre1: {0} Paramètre2: {1}	パラメーター {0} パラメーター {1}	Gwenadu
+^text_with_new_lines	Settings\nSettings	Ustawienia\nUstawienia	Configuración\nConfiguración	Einstellungen\nEinstellungen	Réglages\nRéglages	設定\n設定	Due
+^text_new_lines_and_params	Parameter1: {0}\nParameter2: {1}\nParameter3: {2}	Parametr1: {0}\nParametr2: {1}\nParametr3: {2}	Parámetro1: {0}\nParámetro2: {1}\nParámetro3: {2}	Parameter1: {0}\nParameter2: {1}\nParameter3: {2}	Paramètre1: {0}\nParamètre2: {1}\nParamètre3: {2}	パラメーター {0}\n パラメーター {1}\n パラメーター {2}	Gwen 
+^language	LANGUAGE	JĘZYK	IDIOMA	SPRACHE	LANGUE	言語	Rohazon
